@@ -1,5 +1,8 @@
 # MIAutoStart
 
+> [!NOTE]
+> This repository has been migrated to Codeberg, please see: https://codeberg.org/bluice/miautostart/
+
 MIAutoStart cria aplicativos para inicializar com o sistema no modo usuário.
 
 ## Information
